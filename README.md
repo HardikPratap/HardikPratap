@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/hardik-pratap-7138141b9/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL" align="center">
+  <a href="[your-twitter-URL](https://twitter.com/hardik_pratap1/status/1835160081320554712?s=61&t=Xqb5AR-jppqiOMH26p3_rg)" align="center">
     <img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
